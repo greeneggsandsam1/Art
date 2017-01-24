@@ -1,6 +1,10 @@
 body {
-background-color: #BFEDFF;
-background-image:url('image/tipsy.gif');} 
+background-color: #BFEDFF;} 
 	a{color: #009933 ;}
-	a:hover{color: #800000 }
-	
+a:hover{color: #800000}
+h1 {text-align: center; font-family: "Georgia", serif}
+h2 {text-align: center ; font-family: "Georgia", serif}
+p{font-family: "georiga", serif}
+ul{font-family: "georiga", serif} 
+a{font-family: "geriga", serif}
+ol{font-family: "georgia", serif}
