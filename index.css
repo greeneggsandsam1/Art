@@ -11,6 +11,12 @@ ol{font-family: "georgia", serif}
 div { width: 320px;
     padding: 10px;
     border: 5px solid gray;
-	margin: 0;
+	margin: 0;}
 h1 {text-align: center; font-family: "Georgia", serif}
-h2 {text-align: center ; font-family: "Georgia", serif}}
+h2 {text-align: center ; font-family: "Georgia", serif}
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+	padding: 10px;} 
+	
