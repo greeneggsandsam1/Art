@@ -8,3 +8,7 @@ p{font-family: "georiga", serif}
 ul{font-family: "georiga", serif} 
 a{font-family: "geriga", serif}
 ol{font-family: "georgia", serif}
+div class:feel { width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+	margin: 0;}
