@@ -1,9 +1,9 @@
 body {
 background-color: #BFEDFF;} 
 	a{color: #009933 ;}
-#menu{width:550px;
-	height:35px;
-	font-size:16px;
+#menu{width:1000px;
+	height:100px;
+	text-align: center; font-size:25px;
 	font-family: "georgia", serif;
 	font-weight: bold;Text-align:center;
 	text-shadow: 3px 2px 3px #000000;
