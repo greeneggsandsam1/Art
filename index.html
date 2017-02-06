@@ -3,20 +3,47 @@
 <link href="index.css" rel="stylesheet" type="text/css">
 <title>UglyWebsite</title>
 <style>
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
  img{border-radius: 50px:} 
  </style> 
 </head>
 <body>
- <div>
+ 
  <ul> 
-  <li class= "menu"> 
+  <li class= "active"> 
    <a href= "index.html"> home</a>
    <img src="homebutton.jpg" style= "width: 95px; height: 95px"> 
   </li>
   <li class="menu"> 
    <a href="index1.html"> resources</a> 
    <img src="links.png" style= "width: 95px; height: 95px"> 
-  </div> 
+ </ul>
    <divclass: center>
                                      
 <h1>Trippy Hippies</h1>
